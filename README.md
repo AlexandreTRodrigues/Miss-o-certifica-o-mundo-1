@@ -3,7 +3,7 @@
 Trabalho final para certificação em python no mundo 1.
 - Curso de desenvolvimento full stack da faculdade Estácio de Sá.
 - Mundo 1, turma 2022.3
-- Compomentes do grupo 12:
+- Compomentes do grupo 12: Alexandre Tavares Rodrigues, matrícula 202209284284; Amanda Duque Kawauchi, matrícula 202209170254
 - Link do vídeo no youtube do programa em funcionamento:
 
 O objetivo do projeto era desenvolver uma aplicação para gerenciamento de ferramentas em um
