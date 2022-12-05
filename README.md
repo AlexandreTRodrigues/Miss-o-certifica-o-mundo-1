@@ -5,12 +5,13 @@ Trabalho final para certificação em python no mundo 1.
 - Mundo 1, turma 2022.3
 - Compomentes do grupo 12: Alexandre Tavares Rodrigues, matrícula 202209284284; Amanda Duque Kawauchi, matrícula 202209170254
 - Link do vídeo no youtube do programa em funcionamento:
+- O projeto pode ser acessado através da execução dos scripts em uma IDE de python como pycharm, VSC... ou criando um executável através dos seguintes comandos no terminal: pip install pyinstaller, em seguida execute o comando pyinstaller --hidden-import babel.numbers --onefile --windowed central_ferramentas.py
 
 O objetivo do projeto era desenvolver uma aplicação para gerenciamento de ferramentas em um
 ambiente de produção de conteúdo audiovisual de grande porte.
 O projeto deveria conter:
 
-Local | Central de Ferramentaria
+Central de Ferramentaria
 
 Onde as ferramentas ficam guardadas. O local fica aberto todos os dias, 24h/dia.
 
