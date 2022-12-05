@@ -4,7 +4,7 @@ Trabalho final para certificação em python no mundo 1.
 - Curso de desenvolvimento full stack da faculdade Estácio de Sá.
 - Mundo 1, turma 2022.3
 - Compomentes do grupo 12: Alexandre Tavares Rodrigues, matrícula 202209284284; Amanda Duque Kawauchi, matrícula 202209170254
-- Link do vídeo no youtube do programa em funcionamento:
+- Link do vídeo no youtube do programa em funcionamento: https://youtu.be/CV3KPrr23r0
 - O projeto pode ser acessado através da execução dos scripts em uma IDE de python como pycharm, VSC... ou criando um executável através dos seguintes comandos no terminal: pip install pyinstaller, em seguida execute o comando pyinstaller --hidden-import babel.numbers --onefile --windowed central_ferramentas.py
 
 O objetivo do projeto era desenvolver uma aplicação para gerenciamento de ferramentas em um
