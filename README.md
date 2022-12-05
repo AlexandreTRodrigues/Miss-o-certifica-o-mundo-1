@@ -9,6 +9,7 @@ Trabalho final para certificação em python no mundo 1.
 O objetivo do projeto era desenvolver uma aplicação para gerenciamento de ferramentas em um
 ambiente de produção de conteúdo audiovisual de grande porte.
 O projeto deveria conter:
+
 Local | Central de Ferramentaria
 
 Onde as ferramentas ficam guardadas. O local fica aberto todos os dias, 24h/dia.
